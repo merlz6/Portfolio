@@ -1,0 +1,291 @@
+.linkImages {
+  margin-top: 20px;
+  height:40px;
+  width:40px;
+}
+
+
+@media (max-width: 600px){
+  body {
+    background-image: url('../images/background.jpg');
+    background-position: center;
+  }
+  .projPictures {
+    width:510px;
+    height:320px;
+  }
+  #buttonHolder{
+    display: flex;
+    flex-direction: row;
+  }
+  .personalPhoto {
+    margin-bottom: 50px;
+    width:40%;
+    height:40%;
+  }
+  .profile {
+    margin-top: 100px;
+    text-align: center;
+  }
+  .brand{
+    margin: 0 40px;
+    color:ghostWhite;
+  }
+  #footer {
+    position: fixed;
+    bottom:0px;
+    text-align: center;
+    left: 0;
+    right: 0;
+  }
+  .projectHeader {
+    margin: 30px 0;
+    text-align: center;
+    color:ghostWhite;
+  }
+  .skillsHeader {
+    margin: 50px 0 35px 0;
+    text-align: center;
+    color:ghostWhite;
+    font-size: 2rem;
+  }
+  .projectNames {
+    margin-top: 25px;
+    text-align: center;
+    margin-bottom: 25px;
+  }
+  .projectParagraphs{
+    color:ghostWhite;
+  }
+  .skillsBox {
+    text-align: center;
+    color:ghostWhite;
+  }
+  .skillsList {
+    color:#111111;
+    font-size: 1.1rem;
+  }
+  .accordion {
+    margin:0 20px;
+  }
+  #linkToCodeDiv {
+    margin:30px 0;
+    text-align: right;
+
+  }
+}
+@media (max-width: 900px){
+  body {
+    background-image: url('../images/background.jpg');
+    background-position: center;
+  }
+  .projPictures {
+    width:510px;
+    height:320px;
+  }
+  #buttonHolder{
+    display: flex;
+    flex-direction: row;
+  }
+  .personalPhoto {
+    margin-bottom: 50px;
+    width:40%;
+    height:40%;
+  }
+  .profile {
+    margin-top: 100px;
+    text-align: center;
+  }
+  .brand{
+    margin: 0 40px;
+    color:ghostWhite;
+  }
+  #footer {
+    position: fixed;
+    bottom:0px;
+    text-align: center;
+    left: 0;
+    right: 0;
+  }
+  .projectHeader {
+    margin: 30px 0;
+    text-align: center;
+    color:ghostWhite;
+  }
+  .skillsHeader {
+    margin: 50px 0 35px 0;
+    text-align: center;
+    color:ghostWhite;
+    font-size: 2rem;
+  }
+  .projectNames {
+    margin-top: 25px;
+    text-align: center;
+    margin-bottom: 25px;
+  }
+  .projectParagraphs{
+    color:ghostWhite;
+  }
+  .skillsBox {
+    text-align: center;
+    color:ghostWhite;
+  }
+  .skillsList {
+    color:#111111;
+    font-size: 1.1rem;
+  }
+  .accordion {
+    margin:0 20px;
+  }
+  #linkToCodeDiv {
+    margin:30px 0;
+    text-align: right;
+
+  }
+
+}
+@media (max-width: 1200px){
+  body {
+    background-image: url('../images/background.jpg');
+    background-position: center;
+  }
+  .projPictures {
+    width:510px;
+    height:320px;
+  }
+  #buttonHolder{
+    display: flex;
+    flex-direction: row;
+  }
+  .personalPhoto {
+    margin-bottom: 50px;
+    width:40%;
+    height:40%;
+  }
+  .profile {
+    margin-top: 100px;
+    text-align: center;
+  }
+  .brand{
+    margin: 0 40px;
+    color:ghostWhite;
+  }
+  #footer {
+    margin-top:25px;
+    position:relative;
+    bottom:0px;
+    text-align: center;
+    left: 0;
+    right: 0;
+  }
+  .projectHeader {
+    margin: 30px 0;
+    text-align: center;
+    color:ghostWhite;
+  }
+  .skillsHeader {
+    margin: 50px 0 35px 0;
+    text-align: center;
+    color:ghostWhite;
+    font-size: 2rem;
+  }
+  .projectNames {
+    margin-top: 25px;
+    text-align: center;
+    margin-bottom: 25px;
+  }
+  .projectParagraphs{
+    color:ghostWhite;
+  }
+  .skillsBox {
+    text-align: center;
+    color:ghostWhite;
+  }
+  .skillsList {
+    color:#111111;
+    font-size: 1.1rem;
+  }
+  .accordion {
+    margin:0 20px;
+  }
+  #linkToCodeDiv {
+    margin:30px 0;
+    text-align: right;
+
+  }
+  .nav-link {
+
+  }
+
+}
+body {
+  background-image: url('../images/background.jpg');
+  background-position: center;
+}
+.projPictures {
+  width:510px;
+  height:320px;
+}
+#buttonHolder{
+  display: flex;
+  flex-direction: row;
+}
+.personalPhoto {
+  margin-bottom: 50px;
+  width:25%;
+  height:25%;
+}
+.profile {
+  margin-top: 60px;
+  text-align: center;
+}
+.brand{
+  margin: 0 40px;
+  color:ghostWhite;
+}
+#footer {
+  margin-top: 60px;
+  position:relative;
+  bottom:0px;
+  text-align: center;
+  left: 0;
+  right: 0;
+}
+.projectHeader {
+  margin: 30px 0;
+  text-align: center;
+  color:ghostWhite;
+}
+.skillsHeader {
+  margin: 50px 0 35px 0;
+  text-align: center;
+  color:ghostWhite;
+  font-size: 2rem;
+}
+.projectNames {
+  margin-top: 25px;
+  text-align: center;
+  margin-bottom: 25px;
+}
+.projectParagraphs{
+  color:ghostWhite;
+}
+.skillsBox {
+  text-align: center;
+  color:ghostWhite;
+}
+.skillsList {
+  color:#111111;
+  font-size: 1.1rem;
+}
+.accordion {
+  margin:0 40px;
+}
+#linkToCodeDiv {
+  margin:30px 0;
+  text-align: right;
+
+}
+.nav-link {
+
+}
