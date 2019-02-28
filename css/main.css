@@ -256,7 +256,7 @@ body {
   margin: 30px 0;
   text-align: center;
   color:ghostWhite;
-  
+
 }
 .skillsHeader {
   margin: 50px 0 35px 0;
@@ -267,10 +267,15 @@ body {
 .projectNames {
   margin-top: 25px;
   text-align: center;
-  margin-bottom: 25px;
+  margin-bottom: 10px;
+  text-decoration: underline;
+  margin-bottom: 30px;
+
+
 }
 .projectParagraphs{
   color:ghostWhite;
+  font-size:1.1rem;
 }
 .skillsBox {
   text-align: center;
@@ -281,13 +286,23 @@ body {
   font-size: 1.1rem;
 }
 .accordion {
-  margin:0 40px;
+  margin:0 60px;
 }
 #linkToCodeDiv {
   margin:30px 0;
   text-align: right;
 
 }
+.GithubImageForProjects {
+  margin-top:20px;
+  height:40px;
+  width:40px;
+}
+
 .carousel-item {
   text-align: center;
+}
+a {
+  color:ghostWhite;
+
 }
